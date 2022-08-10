@@ -1,0 +1,35 @@
+Data  types in JavaScript:
+
+There are two types in JavaScript-
+1: Primitive Data Types
+
+(i) Undefined
+(ii) BVoolean
+(iii) number
+(iv) string
+(v) null
+(vi) symbol
+
+2: Reference Data Types
+
+(i) Array
+(ii) Object
+
+Some general knowledge about Data types in JavaScript-:
+
+Jab hum Variable create karte samay Assignment operator (=) ka use karke value assign karte ho ya in simple words, uske aage kuchh bhi likhte hain to jo bhi value humne assign ki uska "type" kya tha usko hi Data Type kaha jaata hai JavaScript mein.
+JavaScript mein humare paas data type ke liye keval 'var' hi hota hai jabki other programming languages mein data types alag alag hote hain jinki help se hum pehchaan sakte hain ki ye 'charecter' hai ya 'string' hai ya 'number' hai ya phir 'float'.
+JavaScript mein Agar Rules ko follow kiya jaaye to variable ke naam ki length UNLIMITED hoti hai. Aap kitna bhi lamba variable bana Sakte hain.
+
+JavaScript Samajhta hai ki assignment operator ke aage jo bhi likha hua hai uska dataType kya hai.
+Agar assignment operator (=) ke aage ("") Double ya single quotes ke andar kuchh likha jaata hai to JavaScript usko String Samajhta hai, Agar 123456.... likha jaata hai to JS isko automatically understand kar leta hai.
+
+Agar Assignment operator ke aage True ya False likha hua hai to ye boolean data type hua aur ye sab kuchh var me hi define kiya jaata hai.
+
+Exercise/ Challenges
+
+
+
+
+
+
