@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.section-main{
+    background-color: lightcyan;
+    height: 600px;
+    width: 100%;
+
+} 
+.section-main-container{
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-align: justify;
+    background-color: lightcyan;
+    scroll-behavior: smooth;
+}
+.section-sub-container{
+    padding: 8px;
+    background-color: lightcyan;
+    cursor: pointer;
+
+}
+.section-sub-container:hover{
+    transform:scaleY(1.5);
+    transform: scaleX(1.1);
+    background-color: aquamarine;
+    border: 2px solid lightblue;
+
+
+}

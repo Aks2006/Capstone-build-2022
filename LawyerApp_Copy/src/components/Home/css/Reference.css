@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main-container{
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-align: justify;
+    background-color: lightcyan;
+    scroll-behavior: smooth;
+}
+.sub-container{
+    padding: 8px;
+    border: 3px solid lightblue;
+    background-color: lightcyan;
+    cursor: pointer;
+
+}
+.sub-container:hover{
+    transform:scaleY(1.5);
+    transform: scaleX(1.1);
+    background-color: aquamarine;
+    border: 2px solid darkgray;
+
+
+}
+.heading{
+    font-size: 18px;
+    font-weight: bold;
+}
+.heading:hover{
+    background-color: lavender;
+}
+.paragraph{
+    font-size: 15px;
+}
