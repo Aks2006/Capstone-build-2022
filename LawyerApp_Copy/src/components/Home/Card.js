@@ -1,7 +1,7 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import React from 'react'
-import imgnew from '../Home/img/img2.png'
-import './css/Card.css'
+// import 'bootstrap/dist/css/bootstrap.min.css';
+//import React from 'react'
+// import imgnew from '../Home/img/img2.png'
+/*import './css/Card.css'
 
 export default function Card() {
   return (
@@ -19,9 +19,7 @@ export default function Card() {
           <p>Contact No : 9734058122</p>
           <p>Rating : 4/5</p>
           {/* <a href="/" className="card-link">Card link</a>
-          <a href="/" className="card-link">Another link</a> */}
-        </div>
-      </div>
+          <a href="/" className="card-link">Another link</a> */
+        // </div>
+     // </div>
    
-  )
-}

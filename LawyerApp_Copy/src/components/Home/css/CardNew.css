@@ -1,13 +1,19 @@
+
+.container{
+
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr
+}
 .card {
   /* display: inline-flex; */
   display:inline-block;
   /* flex-direction: row; */
-  border: 2px solid #f7f7f7;
+  border: 2px solid grey;
   box-shadow: 0 0 5px black;
   width: 250px;
   margin: 20px;
   padding: 10px;
-  background-color: rgb(236, 236, 236);
+  background-color: whitesmoke;
   cursor: pointer;
 
 }
@@ -68,7 +74,13 @@
 }
 
 .Button {
-  justify-content: space-between;
+  margin: 0 5px;
+  display:flex;
+  justify-content: center;
   padding: 5px;
   align-items: center;
+}
+.button-container{
+  display:flex;
+  justify-content: center;
 }

@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 } 
+
  .container{
     display: grid;
     grid-template-rows: 3 1fr;
