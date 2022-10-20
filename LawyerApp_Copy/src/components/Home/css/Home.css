@@ -4,14 +4,14 @@
 }
 
 .home-row-1 {
-    background-color: lightcyan;
+    background-color: #d5e0d5;
 
     width: 110%;
     height: 500px;
     transform: translate(1);
     background-image: url(../img/homeImg//HomeImage1.jpg);
     background-repeat: no-repeat;
-    background-size: 900px 500px;
+    background-size: 1000px 1000px;
         box-shadow: 1px 2px 2px;
     background-position: center;
     animation: slider 20s infinite linear;
