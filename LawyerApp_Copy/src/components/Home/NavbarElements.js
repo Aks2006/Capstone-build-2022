@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 
 export const Nav = styled.nav`
-background:  rgb(74, 213, 213);
+background:  #20B2AA;
 height: 55px;
 display: flex;
 justify-content: space-between;
@@ -24,7 +24,7 @@ export const NavLogo = styled(Link)`
 `;
 
 export const NavLink = styled(Link)`
-color: #808080;
+color: whitesmoke;
 display: flex;
 align-items: center;
 text-decoration: none;
